@@ -1,2 +1,2 @@
-# Home-Work-Python-
-Программа на Python(ДЗ №1).
+# Home-Work-Python
+Программы на Python(ДЗ №1(Автосалон), ДЗ №2(Настольные игры)).
